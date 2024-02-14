@@ -52,8 +52,5 @@ The first challenge I ran into was trying to place a bunch of little twig trees 
 
 - Professor Zhu 
 
-- ShaderToy that I modified and used for the parallax snow effect
- 
-I will however link the shaderToy I used the algorithm from to generate the parallax snow effect that I only slightly edited to fit into my program: 
-https://www.shadertoy.com/view/ldsGDn 
+- ShaderToy that I modified and used for the parallax snow effect: https://www.shadertoy.com/view/ldsGDn 
  

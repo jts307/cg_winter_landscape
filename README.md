@@ -18,7 +18,7 @@ I used two L-systems: one to generate the bigger leafier trees and another to ge
 
 ![Final Image](Final_Images_and_Report/terrain.PNG)
 
-![Final Image](Final_Images_and_Report/Screenshot (255).png)
+![Final Image](Final_Images_and_Report/terrain_2.png)
 
 ## L-Systems
 

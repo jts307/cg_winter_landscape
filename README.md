@@ -12,16 +12,19 @@ I used two L-systems: one to generate the bigger leafier trees and another to ge
 
 # Procedurally Generated Forest 
 
+![Final Image](Final_Images_and_Report/forest_generation.PNG)
+
 ## Terrain
 
-![Final Image](Final_Images_and_Report/Final_Animation_Variation_2.mp4)
+![Final Image](Final_Images_and_Report/terrain.PNG)
 
 ## L-Systems
 
+![Final Image](Final_Images_and_Report/l_systems.PNG)
+
 ## Tree Albedos and Textures
 
-## 
-
+![Final Image](Final_Images_and_Report/tree_textures.PNG)
 
 ## Technical Implementation details
 
